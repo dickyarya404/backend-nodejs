@@ -1,0 +1,27 @@
+{
+  "name": "dicky-games-module",
+  "version": "1.0.1",
+  "description": "ini project sederhana untuk belajar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dicky": "nodemon server.js"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "js",
+    "basic",
+    "node",
+    "js",
+    "dicky",
+    "module"
+  ],
+  "author": "https://www.instagram.com/dicky.aap_",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "rupiah-format": "^1.0.0"
+  }
+}
